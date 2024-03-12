@@ -1,0 +1,12 @@
+{
+    "packages": {
+        ".": {
+            "pull-request-header": ":tractor: New release prepared",
+            "pull-request-title-pattern": "release: v${version}",
+            "bump-minor-pre-major": true,
+            "bump-patch-for-minor-pre-major": true,
+            "prerelease": true,
+            "versioning": "prerelease"
+        }
+    }
+}
