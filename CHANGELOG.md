@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/flovogt/test-lib-rp-sp/compare/sam-lib-v0.2.0...sam-lib-v0.2.1) (2024-03-14)
+
+
+### Bug Fixes
+
+* add shrinkwrap ([25957e3](https://github.com/flovogt/test-lib-rp-sp/commit/25957e393a99c34e8607e327a69bf0663b740cd9))
+
 ## [0.2.0](https://github.com/flovogt/test-lib-rp-sp/compare/sam-lib-v0.1.0...sam-lib-v0.2.0) (2024-03-14)
 
 
