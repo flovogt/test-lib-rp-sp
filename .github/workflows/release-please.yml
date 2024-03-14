@@ -27,6 +27,8 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 21.x
+    - name: Install deps
+      run: npm ci
     - name: Remove devDependencies from package.json
       run: |
         mv package.json package.json.bak
