@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/flovogt/test-lib-rp-sp/compare/sam-lib-v0.2.2...sam-lib-v0.2.3) (2024-03-14)
+
+
+### Bug Fixes
+
+* lock file ([74a1f19](https://github.com/flovogt/test-lib-rp-sp/commit/74a1f19e77f9ea05dc7c7944820fbdba153bb3a2))
+
 ## [0.2.2](https://github.com/flovogt/test-lib-rp-sp/compare/sam-lib-v0.2.1...sam-lib-v0.2.2) (2024-03-14)
 
 
