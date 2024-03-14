@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/flovogt/test-lib-rp-sp/compare/sam-lib-v0.2.1...sam-lib-v0.2.2) (2024-03-14)
+
+
+### Bug Fixes
+
+* add command ([99b7939](https://github.com/flovogt/test-lib-rp-sp/commit/99b79399a2eed3eb9464cbbe3305a2b7a5c4e550))
+
 ## [0.2.1](https://github.com/flovogt/test-lib-rp-sp/compare/sam-lib-v0.2.0...sam-lib-v0.2.1) (2024-03-14)
 
 
