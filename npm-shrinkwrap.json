@@ -8,7 +8,9 @@
       "name": "sam-lib",
       "version": "0.2.0",
       "license": "Apache-2.0",
-      "devDependencies": {}
+      "devDependencies": {
+        "@ui5/cli": "^3.9.1"
+      }
     },
     "node_modules/nop-lib": {
       "extraneous": true

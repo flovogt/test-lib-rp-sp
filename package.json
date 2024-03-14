@@ -5,9 +5,11 @@
   "description": "The Sam-Lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flovogt/test-lib-rp.git"
+    "url": "git+https://github.com/flovogt/test-lib-rp.git"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@ui5/cli": "^3.9.1"
+  },
   "scripts": {
     "test": "echo \"Thats my test\" && exit 0"
   },
